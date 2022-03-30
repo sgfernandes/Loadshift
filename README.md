@@ -11,7 +11,7 @@ Measurement & Verification (M&V) methods for energy efficiency projects have bee
 This code presents a method and metric to quantify baseline algorithm predictive accuracy for each hour of the year. We call this approach ‘anytime prediction’, as it assesses baseline predictive accuracy for every hour in the prediction time horizon. Anytime prediction uses a heatmap visualization approach and a median percent error to quantify hourly savings. In the context of  DF this approach offers deeper insights into hourly savings, since it is already known that model’s predictive error varies based on the magnitude of the load being predicted and the number of algorithm training data points of a similar magnitude (e.g., peak prediction error is higher than for other load magnitudes). 
 
 
-Baseline degradation
+# Baseline degradation
 
 Grid Services NRE Detection – Load Shift 
 Analysis Methodology
@@ -37,15 +37,6 @@ This list is passed on to another function, ‘generate_results()’, which outp
 
 4.	Export CSVs:  export csv files with per hour prediction for each meter and each test case. 
 
-Visualizations:
-
-Shiny Dashboard: interactive dashboard with two visualizations: NMBE boxplot for all test cases and a scatterplot of median NMBE against the test cases. Y-axis of the plot can be controlled by the user. 
-
-Tableau Dashboard: interactive dashboard showing a timeseries plot of energy predictions (of all three algorithms) and actual energy use over 24 hours. User control options include:
-•	Meter ID
-•	Number of degradation days
-•	Prediction date
-•	Algorithm
 
 
 
