@@ -13,8 +13,7 @@ This code presents a method and metric to quantify baseline algorithm predictive
 
 # Baseline degradation
 
-Grid Services NRE Detection – Load Shift 
-Analysis Methodology
+Grid Services Load Shift Baseline Degradation Analysis Methodology
 
 The first script, ‘0. Load Packages’ lists all the packages required for the analysis. Please install any that are not already available on your system. The items below provide details on all other scripts used in the analysis. 
 
