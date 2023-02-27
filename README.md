@@ -1,4 +1,4 @@
-# Accuracy of hourly energy predictions for demand flexibility applications
+# “Grid Services Load Shift Baseline Degradation Analysis Methodology
 
 This repository contains code for the hourly predictive accuracy of multiple baseline models. 
 
