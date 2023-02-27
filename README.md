@@ -1,4 +1,4 @@
-# Accuracy of houlry energy predictions for demand flexibility applications
+# Accuracy of hourly energy predictions for demand flexibility applications
 
 This repository contains code for the hourly predictive accuracy of multiple baseline models. 
 
