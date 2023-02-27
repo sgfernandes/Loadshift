@@ -1,4 +1,4 @@
-# “Grid Services Load Shift Baseline Degradation Analysis Methodology
+# Grid Services Load Shift Baseline Degradation Analysis Methodology
 
 This repository contains code for the hourly predictive accuracy of multiple baseline models. 
 
